@@ -1,4 +1,4 @@
-# Zookeeper Artifacts
+# Zookeeper JARs
 
 This is an archive for Apache Zookeeper jars that you can use to build zookeeper clients. 
 
